@@ -10,16 +10,16 @@ Using React and Firebase
 ### Images
 
 - Home page
-![Home](./capturas/home.png){width=600}
+![Home](./capturas/home.png)
 
 - Products
-![Home 2](./capturas/home2.png){width=600}
+![Home 2](./capturas/home2.png)
 
 - Sign-in / Create an account
-![Sign-in](./capturas/signin.png){width=600}
+![Sign-in](./capturas/signin.png)
 
 - Basket
-![Checkout](./capturas/checkout.png){width=600}
+![Checkout](./capturas/checkout.png)
 
 - Checkout
-![Payment](./capturas/payment.png){width=600}
+![Payment](./capturas/payment.png)
